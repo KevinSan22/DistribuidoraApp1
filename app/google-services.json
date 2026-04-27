@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794860302704",
+    "project_id": "distribuidoraapp-dae08",
+    "storage_bucket": "distribuidoraapp-dae08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794860302704:android:f9d329de3687cc96851fb5",
+        "android_client_info": {
+          "package_name": "com.example.distribuidoraapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4iKqA1QuAAitWwaV0VfmiKopCd6rOjmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
